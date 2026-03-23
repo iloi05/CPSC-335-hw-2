@@ -1,3 +1,7 @@
+// Ivy Loi
+// HW 2 problem 2
+// CPSC 335 section 10
+// 3/22/26
 #include <iostream>
 
 // so can be used in reverse algo
